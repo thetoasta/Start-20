@@ -224,7 +224,7 @@ client.on("messageCreate", async (message) => {
 });
 
 // Login to Discord with your client's token
-client.login('MTE5NTc3MTEzMzU4NTI3NjkzOA.GYtQAU.RAEJzuvuXkTFeaIqjyT-KQk3OiTu_xRdDQTfXg');
+client.login('MTE5NTc3MTEzMzU4NTI3NjkzOA.GkVsnl.h78Q1IfMPPjdmjV9sJ8QQMouB6be1hJve5j_9o');
 
 const express = require("express");
 const app = express();
